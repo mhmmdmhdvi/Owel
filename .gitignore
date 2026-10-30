@@ -1,0 +1,10 @@
+.DS_Store
+
+# AI working notes, scratch scripts, screenshots, and agent state
+.local/
+.codex/
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+/docs/superpowers/
